@@ -1,0 +1,3 @@
+## Bias
+Bias (“Voreingenommenheit”) in Künstlicher Intelligenz entsteht durch ungleichmäßig repräsentierte oder fehlerhafte Datensätze, die Vorurteile und Diskriminierung gegenüber bestimmten Gruppen oder Merkmalen verstärken können. Diese Bias kann zu ungerechten Entscheidungen führen und bestehende gesellschaftliche Ungleichheiten verstärken. Um diese Problematik anzugehen, ist es wichtig, Bias in den Datensätzen zu erkennen, zu quantifizieren und zu mindern, um faire und ethisch vertretbare KI-Systeme zu entwickeln.
+Hilfreiches Wissen zu Bias: https://www.anti-bias.eu/wissen/biases-von-a-z/
