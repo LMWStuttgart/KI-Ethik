@@ -1,0 +1,2 @@
+## Künstliche Intelligenz
+Künstliche Intelligenz (KI) ist ein Teilgebiet der Informatik und bezeichnet hochentwickelte Softwaresysteme, die lernfähig bzw. trainierbar sind und, dem menschlichen Verstand ähnlich, kognitive Aufgaben ausführen können. KI nutzt statische bzw. dynamische Daten und erkennt selbstständig (d.h. auf Basis von -> “machine learning”) Korrelationen oder Muster in den Datensätzen. Zu den Anwendungsfelder gehören z.B. Bild-, Sprach- und Texterkennung bzw. -generierung sowie Robotik.
