@@ -1,0 +1,2 @@
+## Machine Learning
+Machine Learning (ML) ist ein Teilbereich der KI, bei der Algorithmen verwendet werden, bei der Computern aus Daten lernen und ohne explizite Programmierung Entscheidungen zu treffen. Diese Technologie ermöglicht es Maschinen, Muster in Daten zu identifizieren, Vorhersagen zu treffen und ihre Leistung durch wiederholtes Lernen zu verbessern. Machine Learning findet Anwendung in verschiedenen Bereichen wie Bilderkennung, Sprachverarbeitung, und Datenanalyse.
