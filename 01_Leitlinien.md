@@ -1,11 +1,11 @@
 ## Leitlinien für den Einsatz von KI im Landesmuseum Württemberg
 
-Hinweis: Unterstrichene Begriffe werden im Glossar erläutert oder öffnen einen Link auf externe Informationsquellen.
+Hinweis: Unterstrichene Begriffe werden im [Glossar](0200_glossar.md) erläutert oder öffnen einen Link auf externe Informationsquellen.
 
 
 
 ## Neue Wege der kulturellen Praxis im Museum
-In vielen Museen kommen in Forschung, Dokumentation, Kommunikation, Vermittlung und Verwaltung zunehmend mehr Anwendungen der Künstlichen Intelligenz (KI) und Machine Learning zum Einsatz. Im Fokus stehen dabei Verfahren der Wissensmodellierung, der Bild- und Texterkennung oder kreative Prozesse über generative KI-Modelle.
+In vielen Museen kommen in Forschung, Dokumentation, Kommunikation, Vermittlung und Verwaltung zunehmend mehr Anwendungen der [Künstlichen Intelligenz (KI)](0211_glossar_kuenstlicheintelligenz) und [Machine Learning](0213_glossar_machinelearning.md) zum Einsatz. Im Fokus stehen dabei Verfahren der [Wissensmodellierung](0218_glossar_wissensmodellierung), der Bild- und Texterkennung oder kreative Prozesse über generative [KI-Modelle](0210_glossar_generativeKI.md).
 
 Als Ort der Bildung, Vermittlung, Begegnung, Interaktion und Unterhaltung wollen wir im Landesmuseum Württemberg den Einsatz dieser Systeme kritisch und verantwortungsvoll reflektieren und mitgestalten. Wir wollen KI-Anwendungen dort einsetzen, wo sie sinnvoll bzw. hilfreich sind, unsere Arbeit unterstützen, attraktive Angebote für Besucher*innen und Nutzer*innen schaffen oder diese zugänglicher und inklusiver machen. 
 Rahmenbedingungen für den Einsatz von KI im Landesmuseum
