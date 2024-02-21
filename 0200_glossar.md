@@ -1,6 +1,20 @@
 ## Glossar
+Das kleine Glossar begleitet und ergänzt die [Leitlinien für den Einsatz von KI im Landesmuseum Württemberg](01_leitlinien.md). Die hier gelisteten Fachbegriffe sollen einfach erklärt werden und weitere Anhaltspunkte liefern, wie das Museum sich den Aufgaben- und Themenbereichen der Künstlichen Intelligenz nähert. 
 + [Algorithmen](0201_glossar_algorithmen.md)
 + [Bias](0202_glossar_bias.md)
 + [Black Box](0203_glossar_blackbox.md)
 + [CARE Prinzipien](0204_glossar_care.md)
-
++ [Datenschutzbestimmungen /EU-DSGVO/](0205_glossar_datenschutzbestimmungen.md)
++ [Datensicherheitsstandards](0206_glossar_datensicherheitsstandards.md)
++ [Deep Learning](0207_glossar_deeplearning.md)
++ [Digitale Strategie](0208_glossar_digitalestrategie.md)
++ [FAIR Prinzipien](0209_glossar_fair.md)
++ [Generative KI-Modelle](0210_glossar_generativeKI.md)
++ [Künstliche Intelligenz](0211_glossar_kuenstlicheintelligenz.md)
++ [KI-Ethik](0212_glossar_kiethik.md)
++ [Machine Learning](0213_glossar_machinelearning.md)
++ [Maschinenlesbare Daten](0214_glossar_maschinenlesbar.md)
++ [Neuronale Netze](0215_glossar_neuronalenetze.md)
++ [Regeln zur guten wissenschaftlichen Praxis](0216_glossar_regeln.md)
++ [Input- / Trainingsdaten](0217_glossar_trainingsdaten.md)
++ [Wissensmodellierung](0218_glossar_wissensmodellierung.md)
