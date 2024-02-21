@@ -1,5 +1,5 @@
 ## Glossar
-Das kleine Glossar begleitet und ergänzt die [Leitlinien für den Einsatz von KI im Landesmuseum Württemberg](01_leitlinien.md). Die hier gelisteten Fachbegriffe sollen einfach erklärt werden und weitere Anhaltspunkte liefern, wie das Museum sich den Aufgaben- und Themenbereichen der Künstlichen Intelligenz nähert. 
+Das kleine Glossar begleitet und ergänzt die [Leitlinien für den Einsatz von KI im Landesmuseum Württemberg](01_Leitlinien.md). Die hier gelisteten Fachbegriffe sollen einfach erklärt werden und weitere Anhaltspunkte liefern, wie das Museum sich den Aufgaben- und Themenbereichen der Künstlichen Intelligenz nähert. 
 + [Algorithmen](0201_glossar_algorithmen.md)
 + [Bias](0202_glossar_bias.md)
 + [Black Box](0203_glossar_blackbox.md)
