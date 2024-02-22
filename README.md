@@ -6,6 +6,6 @@ Für den Einsatz von KI im Landesmuseum Württemberg haben wir Leitlinien aufges
 
 * [Leitlinien](01_Leitlinien.md)
 
-Künstliche Intelligenz (KI) bezieht sich auf Systeme oder Maschinen, die menschenähnliche Fähigkeiten wie Lernen, Verstehen, Entscheiden und Problemlösen demonstrieren. Die Komplexität der KI ergibt sich aus der Vielschichtigkeit ihrer Unterbereiche - von maschinellem Lernen über neuronale Netzwerke bis hin zu natürlicher Sprachverarbeitung - und der fortgeschrittenen Mathematik und Statistik, die ihre Grundlage bilden. Für Laien ist das Thema oft schwer zugänglich, da es eine tiefgreifende Auseinandersetzung mit spezialisierten Begrifflichkeiten und Konzepten erfordert, die sich schnell weiterentwickeln und in ihrer Anwendung überaus vielfältig sind. Vor diesem Hintergrund haben wir ein kleines Glossar der Fachbegriffe und Unterbereiche erstellt:
+Die Komplexität der KI ergibt sich aus der Vielschichtigkeit ihrer Unterbereiche - von maschinellem Lernen über neuronale Netzwerke bis hin zu natürlicher Sprachverarbeitung - und der fortgeschrittenen Mathematik und Statistik, die ihre Grundlage bilden. Für Laien ist das Thema oft schwer zugänglich, da es eine tiefgreifende Auseinandersetzung mit spezialisierten Begrifflichkeiten und Konzepten erfordert, die sich schnell weiterentwickeln und in ihrer Anwendung überaus vielfältig sind. Vor diesem Hintergrund haben wir ein kleines Glossar der Fachbegriffe und Unterbereiche erstellt:
 
 * [Glossar](0200_glossar.md)
