@@ -12,6 +12,7 @@ Die Komplexität der KI ergibt sich aus der Vielschichtigkeit ihrer Unterbereich
 + [Digitale Strategie](0208_glossar_digitalestrategie.md)
 + [FAIR Prinzipien](0209_glossar_fair.md)
 + [Generative KI-Modelle](0210_glossar_generativeKI.md)
++ [Generative Adversarail Networks (GANs)](0219_glossar_gan.md)
 + [Künstliche Intelligenz](0211_glossar_kuenstlicheintelligenz.md)
 + [KI-Ethik](0212_glossar_kiethik.md)
 + [Machine Learning](0213_glossar_machinelearning.md)
