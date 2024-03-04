@@ -1,8 +1,8 @@
 # Leitlinien für den Einsatz von Künstlicher Intelligenz (KI) im Landesmuseum Württemberg
 
-In vielen Museen kommen zunehmend mehr Anwendungen der Künstlichen Intelligenz (KI) und Machine Learning zum Einsatz. 
-Als Ort der Bildung, Vermittlung, Begegnung, Interaktion und Unterhaltung wollen wir auch im Landesmuseum Württemberg diese Systeme nutzen, aber auch kritisch und verantwortungsvoll reflektieren. 
-Für den Einsatz von KI im Landesmuseum Württemberg haben wir Leitlinien aufgestellt. Da das Thema von einer hohen Dynamik gekennzeichnet ist, verstehen wir unseren Entwurf als "living document" und wählen auch deshalb als Publikationsort die Plattform GitHub:
+In vielen Museen kommen zunehmend mehr Anwendungen von  Künstlicher Intelligenz (KI) und Machine Learning zum Einsatz. 
+Als Ort der Bildung, Vermittlung, Begegnung, Interaktion und Unterhaltung wollen wir auch im Landesmuseum Württemberg diese Systeme nutzen, aber zugleich kritisch und verantwortungsvoll reflektieren. 
+Für den Einsatz von KI im Landesmuseum Württemberg haben wir Leitlinien aufgestellt. Da das Thema von einer hohen Dynamik gekennzeichnet ist, verstehen wir unseren Entwurf als "living document" und wählen nicht zuletzt deshalb als Publikationsort die Plattform GitHub:
 
 * [Leitlinien](01_Leitlinien.md)
 
