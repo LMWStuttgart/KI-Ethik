@@ -1,3 +1,4 @@
 ## Generative Adversarial Networks (GANs):
 Ins Deutsche übersetzt bedeutet GAN „generierendes gegnerisches Netzwerk“.  Generative Adversarial Networks sind eine Art von künstlichen neuronalen Netzwerken, die aus zwei Modellen bestehen: einem Generator und einem Diskriminator. Der Generator erzeugt Daten, die dem Ausgangsmaterial ähneln, während der Diskriminator versucht, zwischen echten und generierten Daten zu unterscheiden. Durch dieses Wettbewerbsverfahren verbessern sich beide Modelle kontinuierlich, was zu realistischeren generierten Daten führt. Typische Einsatzbereiche eines Generative Adversarial Networks sind das Erzeugen von echt wirkenden künstlichen Bildern oder Videosequenzen, beispielsweise für das Rekonstruieren nicht vorhandener Hintergründe, das Bewegen nur statisch erfasster Objekte oder das nachträgliche Kolorieren von Schwarz-Weiß-Material. 
-
+</br></br>
+Hinweis: Der Text referenziert einen Begriff in den [Leitlinien für den Einsatz von KI im Landesmuseum Württemberg](01_Leitlinien.md)
