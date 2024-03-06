@@ -1,2 +1,4 @@
 ## Deep Learning
 Deep Learning ist ein spezifischer Bereich des Maschinellen Lernens, der auf künstlichen neuronalen* Netzwerken basiert, die mehrere Schichten oder Ebenen [(Deep Neural Networks)](0215_glossar_neuronalenetze.md) haben. Diese Netzwerke werden entwickelt, um automatisch Muster und Merkmale aus großen Mengen von Daten zu lernen, ohne dass eine spezifische Programmierung erforderlich ist. Deep Learning hat breite Anwendungen, darunter Bild- und Spracherkennung, natürliche Sprachverarbeitung und maschinelles Übersetzen. Der Erfolg von Deep Learning beruht auf der Fähigkeit, komplexe Hierarchien von abstrakten Merkmalen zu erfassen, was zu leistungsstarken Lösungen in verschiedenen Bereichen der Künstlichen Intelligenz führt.
+</br></br>
+Hinweis: Der Text referenziert einen Begriff in den [Leitlinien für den Einsatz von KI im Landesmuseum Württemberg](01_Leitlinien.md)
