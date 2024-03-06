@@ -1,2 +1,4 @@
 ## Wissensmodellierung
 Wissensmodellierung ist der Prozess der Organisation von Wissen in einer strukturierten Form. In der Künstlichen Intelligenz bedeutet das, Informationen so zu darzustellen, dass Computer diese lesen und optimal verarbeiten können. Im Idealfall ist Wissen so aufbereitet, dass Computer in den Daten Muster erkennen und Beziehungen zwischen den verschiedenen Informationen erkennen können. Erst die Integration von Wissensmodellierungen versetzt die KI in die Lage, "Probleme" zu lösen, natürliche Sprache zu verstehen, Schlussfolgerungen zu ziehen und Entscheidungen zu treffen. Die Modellierung ist daher ein wesentlicher Bestandteil der Entwicklung von KI-Anwendungen. Der strukturierte Wissensrahmen versetzt den Computer in die Lage, die eigene Leistungsfähigkeit zu verbessern.
+</br></br>
+Hinweis: Der Text referenziert einen Begriff in den [Leitlinien für den Einsatz von KI im Landesmuseum Württemberg](01_Leitlinien.md)
