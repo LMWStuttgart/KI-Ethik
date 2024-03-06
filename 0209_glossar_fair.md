@@ -1,3 +1,5 @@
 ## FAIR-Prinzipien
 Die FAIR-Prinzipien beziehen sich auf Leitlinien für die Verwaltung von wissenschaftlichen Daten und sollen sicherstellen, dass Daten in der Forschung (auf-)findbar (Findable), zugänglich (Accessible), interoperabel (Interoperable) und wiederverwendbar (Reusable) sind. "Findable" bedeutet, dass Daten leicht aufgefunden werden können, beispielsweise durch klare Metadaten und Identifikatoren. "Accessible" bezieht sich darauf, dass Daten für Berechtigte zugänglich sein sollten, "Interoperable" darauf, dass sie mit anderen Daten und Systemen kompatibel sind, und "Reusable" bedeutet, dass Daten in verschiedenen Kontexten wiederverwendet werden können, unterstützt durch klare Lizenzierung und Dokumentation. Diese Prinzipien sollen die Effizienz, Transparenz und Zusammenarbeit in der wissenschaftlichen Forschung fördern.</br>
 Weitere Informationen: https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/faire-daten/ 
+</br></br>
+Hinweis: Der Text referenziert einen Begriff in den [Leitlinien für den Einsatz von KI im Landesmuseum Württemberg](01_Leitlinien.md)
